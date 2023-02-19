@@ -7,7 +7,7 @@ Thanks to the hard work from PojavLauncherTeam, both the Android and the iOS por
 ...with some small exceptions that will be listed below.
 
 ## Android
-Current issues, as of the Dahlia update
+Current issus, as of the Dahlia update
 
 ## iOS
 Current issues, as of the Raw Iron update
